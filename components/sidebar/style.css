@@ -1,0 +1,104 @@
+.sidebar2 {
+  position: absolute;
+  width: 237px;
+  height: 1234px;
+  left: -8.5px;
+  top: -9.07px;
+
+  background: #fafbfd;
+}
+
+.colors {
+  position: absolute;
+  width: 62px;
+  height: 20px;
+  left: 48px;
+  top: 180px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}
+
+.typography {
+  position: absolute;
+  width: 80px;
+  height: 20px;
+  left: 48px;
+  top: 225px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}
+
+.spaces {
+  position: absolute;
+  width: 47px;
+  height: 20px;
+  left: 48px;
+  top: 277px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}
+
+.button2 {
+  position: absolute;
+  width: 53px;
+  height: 20px;
+  left: 48px;
+  top: 327px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #090f31;
+}
+
+.inputs {
+  position: absolute;
+  width: 45px;
+  height: 20px;
+  left: 48px;
+  top: 375px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #9e9e9e;
+}
+
+.grid {
+  position: absolute;
+  width: 29px;
+  height: 20px;
+  left: 48px;
+  top: 430px;
+
+  font-family: "Noto Sans JP";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+
+  color: #9e9e9e;
+}

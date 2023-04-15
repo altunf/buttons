@@ -1,0 +1,301 @@
+.button-default {
+  position: absolute;
+  width: 60px;
+  height: 12px;
+  left: 319px;
+  top: 117px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+.def-hover {
+  position: absolute;
+  width: 96px;
+  height: 12px;
+  left: 555px;
+  top: 117px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  text-align: center;
+
+  color: #828282;
+}
+.var-outline {
+  position: absolute;
+  width: 168px;
+  height: 12px;
+  left: 319px;
+  top: 222px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+
+.var-outline-hover {
+  position: absolute;
+  width: 96px;
+  height: 12px;
+  left: 555px;
+  top: 222px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+
+  color: #828282;
+}
+
+.var-text {
+  position: absolute;
+  width: 150px;
+  height: 12px;
+  left: 319px;
+  top: 329px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+
+.var-text-hover {
+  position: absolute;
+  width: 96px;
+  height: 12px;
+  left: 555px;
+  top: 327px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  text-align: center;
+
+  color: #828282;
+}
+
+.disable-shadow {
+  position: absolute;
+  width: 144px;
+  height: 12px;
+  left: 319px;
+  top: 432px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+
+.button-disable {
+  position: absolute;
+  width: 114px;
+  height: 12px;
+  left: 319px;
+  top: 534px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+
+.text-disable {
+  position: absolute;
+  width: 204px;
+  height: 12px;
+  left: 558px;
+  top: 534px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #333333;
+}
+
+.i-start {
+  position: absolute;
+  width: 252px;
+  height: 12px;
+  left: 319px;
+  top: 639px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+
+.i-end {
+  position: absolute;
+  width: 240px;
+  height: 12px;
+  left: 651px;
+  top: 639px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+
+.sm-size {
+  position: absolute;
+  width: 120px;
+  height: 12px;
+  left: 319px;
+  top: 744px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+.md-size {
+  position: absolute;
+  width: 120px;
+  height: 12px;
+  left: 523px;
+  top: 744px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+.lg-size {
+  position: absolute;
+  width: 120px;
+  height: 12px;
+  left: 731px;
+  top: 744px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+
+.color-default {
+  position: absolute;
+  width: 156px;
+  height: 12px;
+  left: 322px;
+  top: 855px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+.color-primary {
+  position: absolute;
+  width: 156px;
+  height: 12px;
+  left: 523px;
+  top: 855px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+.color-secondary {
+  position: absolute;
+  width: 168px;
+  height: 12px;
+  left: 731px;
+  top: 855px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+.color-danger {
+  position: absolute;
+  width: 150px;
+  height: 12px;
+  left: 971px;
+  top: 855px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #000000;
+}
+
+.color-def-hover {
+  position: absolute;
+  width: 96px;
+  height: 12px;
+  left: 319px;
+  top: 960px;
+
+  font-family: "Ubuntu Mono";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+
+  color: #828282;
+}
