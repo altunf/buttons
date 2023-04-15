@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./style.css";
 import { TiShoppingCart } from "react-icons/ti";
 import { Noto_Sans_JP } from "@next/font/google";
