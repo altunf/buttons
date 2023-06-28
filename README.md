@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://buttons-eta.vercel.app/">
+    <a href="https://buttons-eta.vercel.app/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="http://devchallenges.io](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
+    <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
       Challenge
     </a>
   </h3>
@@ -24,7 +24,7 @@
 ![buttons](https://github.com/altunf/buttons/assets/116505991/5bc6d146-9a43-4cb1-b810-587eb5f96e35)
 
 
-I have completed this <a href="http://devchallenges.io](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">challenge</a> by creating a reusable button with all the design states and a page showcasing all those states. 
+I have completed this <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">challenge</a> by creating a reusable button with all the design states and a page showcasing all those states. 
 
 ### Built With
 
