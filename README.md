@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Buttons</h1>
 
-## Getting Started
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-First, run the development server:
+<div align="center">
+  <h3>
+    <a href="https://buttons-eta.vercel.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="http://devchallenges.io](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<!-- OVERVIEW -->
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Overview
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+![buttons](https://github.com/altunf/buttons/assets/116505991/5bc6d146-9a43-4cb1-b810-587eb5f96e35)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+I have completed this <a href="http://devchallenges.io](https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY" target="_blank">challenge</a> by creating a reusable button with all the design states and a page showcasing all those states. 
 
-To learn more about Next.js, take a look at the following resources:
+### Built With
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next JS
+- React JS
+- TypeScript
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Features
 
-## Deploy on Vercel
+I fulfilled user stories below:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- User story: I can see different button types: default, outline and text
+- User story: I can choose to disable box-shadow
+- User story: I can choose to disable the button
+- User story: I can choose to have an icon on the left or right (Use Google Icon and at least 5 variants)
+- User story: I can have different button sizes
+- User story: I can have different colors
+- User story: When I hover or focus, I can see visual indicators
+- User story: I can still access all button attributes
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## My Portfolio
+
+- devChallenges.io [portfolio](https://devchallenges.io/portfolio/altunf)
+
